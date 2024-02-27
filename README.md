@@ -1,13 +1,20 @@
-To download:
+## To run the program:
 
-Open the project in your desired IDE
+1. Open the project in your desired IDE
 
-Open terminal and enter:
-    pip install -r requirements.txt
+2. Open terminal and enter:
+`pip install -r requirements.txt`
 
-Go to main.py file
+3. Go to **main.py** file
 
-Modify the path of the CSV file and modify the number of seats.
+4. Modify the path to the CSV file in quotations and modify the number of seats.
 ![img.png](misc/img.png)
 
-Run main.py to see the results
+5. Run **main.py** to see the results
+
+
+## Downloading
+
+1. Go to [https://download-directory.github.io](https://download-directory.github.io)
+
+2. Enter *https://github.com/aidansyrgak/instant_runoff_voting.git* into the field to download

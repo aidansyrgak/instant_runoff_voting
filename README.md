@@ -16,7 +16,7 @@
 ## Downloading
 
 1. On top of the page, click **<> Code** and *Download ZIP*
-![img.png](img.png)
+![img1.png](img1.png)
 https://github.com/aidansyrgak/instant_runoff_voting
 
 2. Unzip and open the project in your desired IDE

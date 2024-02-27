@@ -1,6 +1,6 @@
 ## To run the program:
 The program runs in Python, so make sure you have Python installed.
-1. Open the project in your desired IDE
+1. Open the project in your preferred IDE
 
 2. Open terminal and enter:  
 `pip install -r requirements.txt`

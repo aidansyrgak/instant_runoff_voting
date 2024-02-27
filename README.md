@@ -15,6 +15,7 @@
 
 ## Downloading
 
-1. Go to [https://download-directory.github.io](https://download-directory.github.io)
+1. Click *<> Code* and *Download ZIP*
+[https://github.com/aidansyrgak/instant_runoff_voting]https://github.com/aidansyrgak/instant_runoff_voting
 
-2. Enter *https://github.com/aidansyrgak/instant_runoff_voting.git* into the field to download
+2. Unzip and open the project in your desired IDE

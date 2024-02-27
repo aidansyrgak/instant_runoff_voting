@@ -20,3 +20,9 @@ The program runs in Python, so make sure you have Python installed.
 https://github.com/aidansyrgak/instant_runoff_voting
 
 2. Unzip and open the project in your desired IDE
+
+
+## CSV Format
+
+Ensure that the input data CSV file is in the following format:
+![img.png](misc/img3.png)

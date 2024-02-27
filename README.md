@@ -8,5 +8,6 @@ Open terminal and enter:
 Go to main.py file
 
 Modify the path of the CSV file and modify the number of seats.
+![img.png](misc/img.png)
 
 Run main.py to see the results

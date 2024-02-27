@@ -3,7 +3,7 @@ import csvconvert
 import simplecsv
 import pyrankvote
 
-# Specify the path to the CSV folder here
+# Specify the path to the CSV file here
 csv_file = "path/to/csv"
 
 # Specify the required number of seats here
